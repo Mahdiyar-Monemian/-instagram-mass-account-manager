@@ -1,0 +1,6 @@
+modem
+2
+min wait
+10
+max wait
+30

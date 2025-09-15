@@ -1,0 +1,6 @@
+tedad-e prof ha ghabl az reset modem
+1
+min wait 
+2
+max wait
+5

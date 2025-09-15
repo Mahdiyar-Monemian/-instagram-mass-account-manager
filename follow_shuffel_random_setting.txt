@@ -1,0 +1,14 @@
+tedad-e talash ha ghabl az khmoosh kardan-e modem
+2
+zaman-e sabr kardan account minimum
+1
+zaman-e sabr kardan account maximum
+5
+zaman-e sabr kardan follow minimum
+1
+zaman-e sabr kardan follow maximum
+5
+tedad-e follower
+all
+tedad-e follower random
+30
